@@ -1,6 +1,6 @@
 # Greetings, Earthlings! 👽
 
-I'm Shubham, a DevOps sorcerer with a love for automating the mundane 💻✨
+I'm Shubham, a curious soul navigating the digital realm With a 2-year stint as a DevOps engineer, I'm on a perpetual quest for elegant solutions and clean code. My days are fueled by coffee ☕ and the thrill of turning ideas into reality.💻✨
 
 ## About Me
 
