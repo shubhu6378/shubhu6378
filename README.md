@@ -21,3 +21,18 @@ tools:
   - Jenkins 🚀
   - AWS ☁️
   - Terraform 🛠️
+
+🚀 Mission Control---
+💥 Blasting off deployments with style.
+🌌 Wielding the mighty power of automation.
+🛰️ Building satellite systems in the cloud.
+🪐 Galactic Achievements
+🚀 Zero-gravity code deployment mastered.
+🌠 Explored the black holes of legacy systems.
+📡 Received signals of appreciation for bug fixes.
+🌌 Open Source Universe ❤️
+I contribute to open source, spreading the love across galaxies. Explore my cosmic projects and join the space mission!
+
+🛸 Let's Connect Across the Cosmos
+📡 Instagram: @_shubhu__13
+🌌 LinkedIn: https://www.linkedin.com/in/shubhamkumar6378/
