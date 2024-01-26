@@ -1,12 +1,23 @@
-- 👋 Hi, I’m @shubhu6378
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Greetings, Earthlings! 👽
 
-<!---
-shubhu6378/shubhu6378 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Shubham, a DevOps sorcerer with a love for automating the mundane 💻✨
+
+## About Me
+
+- 🚀 DevOps Engineer with a 2-year XP boost.
+- 💡 Solving real-world problems with lines of code.
+- 🌐 Love building bridges between code and infrastructure.
+- 😎 Always up for a tech chat, let's geek out!
+
+## Tech Spellbook
+
+```yaml
+languages:
+  - Python
+  - Bash
+tools:
+  - Docker 🐳
+  - Kubernetes ☸️
+  - Jenkins 🚀
+  - AWS ☁️
+  - Terraform 🛠️
